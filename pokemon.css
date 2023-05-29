@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.pokemon {
+    border: 1px solid #ccc;
+    padding:  10px;
+    margin-bottom: 20px;
+}
+
+.pokemon h2 {
+    margin: 10px 0;
+}
+
+.pokemon p {
+    margin: 5px 0;
+}
+
+.likes {
+    text-align: center;
+}
+
+.like-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.like-count {
+    font-weight: bold;
+}
